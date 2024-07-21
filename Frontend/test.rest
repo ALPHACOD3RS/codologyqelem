@@ -1,0 +1,6 @@
+POST https://qelem-ai.onrender.com/chat
+Content-Type: application/json
+
+{
+    "text": "hi"
+}

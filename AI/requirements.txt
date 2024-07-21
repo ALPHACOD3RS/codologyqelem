@@ -1,0 +1,5 @@
+fastapi
+pydantic    
+cohere
+pdfplumber
+python-dotenv
